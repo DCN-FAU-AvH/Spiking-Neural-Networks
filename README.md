@@ -1,5 +1,8 @@
+# Training of Spiking Neural Networks 
+
 This repository contains a reproducible Python implementation for the training of a Spiking Neural Network.
 
-For more details about the experiments, please read Section 3 (Numerical experiments) in the paper https://arxiv.org/abs/2509.21920
+<img src="https://github.com/DCN-FAU-AvH/Spiking-Neural-Networks/blob/main/SNN_circuit.png" width="70%" height="70%" >
 
-The code is implemented in the notebook SNN.ipynb. 
+The code reproduces the numerical experiments in the paper [U. Biccari, Spiking Neural Networks: a theoretical framework for Universal Approximation and training](https://arxiv.org/abs/2509.21920)
+
